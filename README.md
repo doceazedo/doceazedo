@@ -36,6 +36,6 @@
 <h4>🥰 Support what I do:</h2>
 <p>
   <a href="https://twitch.tv/subs/doceazedo911">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=twitch&labelColor=9146FF&color=0e0e10&logoColor=fff&label=Support%20me!&query=%24.message&url=https%3A%2F%2Fdoceazedo.com%2Fapi%2Fsubs">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=twitch&labelColor=9146FF&color=0e0e10&logoColor=fff&label=Support%20me!&query=%24.message&url=https%3A%2F%2Flucasfernandes.com.br%2Fapi%2Fsubs">
   </a>
 </p>
