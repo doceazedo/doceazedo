@@ -1,5 +1,5 @@
 <h1>Hi, I'm Lucas! <img src="BlobWaveGif.gif" width="32" height="32"></h1>
-<p>I'm a full stack web developer who loves building stylish and reactive UI. Currently <a href="https://twitch.tv/doceazedo911">live coding at Twitch</a>, working on personal projects and freelance jobs, looking for new opportunities and spending my free time <a href="https://last.fm/user/pxlucasf">listening to music</a> and <a href="https://osu.ppy.sh/users/19772832">playing osu!</a>.</p>
+<p>As a developer, I truly enjoy to translate concept ideas to meaningful experiences. Strongly attracted to building web interfaces, I work with technologies such as Svelte, React and Sass. I'm also into gamedev, specially with Unity. I use my spare time to <a href="https://twitch.tv/doceazedo911">livestream my coding sessions</a> and <a href="https://osu.ppy.sh/users/19772832">play osu!</a>.</p>
 
 <h4>🤓 Languages I'm comfortable working with:</h2>
 <p>
