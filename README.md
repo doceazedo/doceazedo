@@ -1,11 +1,12 @@
 <h1>Hi, I'm Lucas! <img src="BlobWaveGif.gif" width="32" height="32"></h1>
-<p>As a developer, I truly enjoy to translate concept ideas to meaningful experiences. Strongly attracted to building web interfaces, I work with technologies such as Svelte, React and Sass. I'm also into gamedev, specially with Unity. I use my spare time to <a href="https://twitch.tv/doceazedo911">livestream my coding sessions</a> and <a href="https://osu.ppy.sh/users/19772832">play osu!</a>.</p>
+<p>As a developer, I truly enjoy to translate concept ideas to meaningful experiences. Strongly attracted to building web interfaces, I work with technologies such as Svelte, React and Sass. I'm also into gamedev, specially with Unity. I use my spare time to <a href="https://twitch.tv/doceazedo911">livestream my coding sessions</a>, write on my blog and <a href="https://osu.ppy.sh/users/19772832">play osu!</a>.</p>
 
 <h4>🤓 Languages I'm comfortable working with:</h2>
 <p>
   <img src="https://img.shields.io/badge/-javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=333">
   <img src="https://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=fff">
   <img src="https://img.shields.io/badge/-sass-cc6699?style=for-the-badge&logo=sass&logoColor=fff">
+  <img src="https://img.shields.io/badge/-kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=fff">
 </p>
 
 <h4>❤ Technologies and frameworks I use and love:</h2>
@@ -39,6 +40,9 @@
 <h4>🥰 Support what I do:</h2>
 <p>
   <a href="https://twitch.tv/subs/doceazedo911">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=twitch&labelColor=9146FF&color=0e0e10&logoColor=fff&label=Support%20me!&query=%24.message&url=https%3A%2F%2Flucasfernandes.com.br%2Fapi%2Fsubs">
+    <img src="https://img.shields.io/badge/-subscribe-9146FF?style=for-the-badge&logo=twitch&logoColor=fff">
+  </a>
+  <a href="https://picpay.me/doceazedo911">
+    <img src="https://img.shields.io/badge/-picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=fff">
   </a>
 </p>
