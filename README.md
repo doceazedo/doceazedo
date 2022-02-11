@@ -3,7 +3,7 @@
 
 <h4>🤓 Languages I'm comfortable working with:</h2>
 <p>
-  <img src="https://img.shields.io/badge/-javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=333">
+  <img src="https://img.shields.io/badge/-typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff">
   <img src="https://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=fff">
   <img src="https://img.shields.io/badge/-sass-cc6699?style=for-the-badge&logo=sass&logoColor=fff">
   <img src="https://img.shields.io/badge/-kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=fff">
