@@ -21,7 +21,7 @@
 
 Hi, welcome to my personal code compendium. 👋📚 As a developer, I truly enjoy to translate concept ideas to meaningful experiences. You can call me Doce, by the way.
 
-🔴 I do live coding streams on [Twitch](https://twitch.tv/doceazedo911), from 7:30pm, from Tuesday to Thursday, GMT-3.
+🔴 I do live coding streams on [Twitch](https://twitch.tv/doceazedo911), from 7:30pm (GMT-3), from Tuesday to Thursday.
 
 
 ## ☕ Keep in touch:
