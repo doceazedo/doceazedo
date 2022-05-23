@@ -19,9 +19,9 @@
 
 ---
 
-Hi, welcome to my personal code compendium. 👋📚 As a developer, I truly enjoy to translate concept ideas to meaningful experiences. You can call me Doce, by the way.
+Hello and welcome to my personal code compendium. 👋📚 You can call me Doce, I'm a developer that truly enjoys to translate concept ideas to meaningful experiences.
 
-🔴 I do live coding streams on [Twitch](https://twitch.tv/doceazedo911), from 7:30pm (GMT-3), from Tuesday to Thursday.
+🔴 I do live coding streams on [Twitch](https://twitch.tv/doceazedo911) from Tuesday to Thursday @ 7:30pm (GMT-3).
 
 
 ## ☕ Keep in touch:
