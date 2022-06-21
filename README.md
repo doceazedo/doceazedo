@@ -35,5 +35,5 @@ Hello and welcome to my personal code compendium. 👋📚 You can call me Doce,
 - [📸 Instagram](https://instagram.com/doceazedo911)
 - [🎮 Discord](https://discordapp.com/users/241978119899185165)
 - [🎵 Last.fm](https://last.fm/user/doceazedo911)
-- [💼 LinkedIn](https://linkedin.com/in/imlucas)
+- [💼 LinkedIn](https://linkedin.com/in/doceazedo)
 - [💼 Polywork](https://polywork.com/doceazedo)
