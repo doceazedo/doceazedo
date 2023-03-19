@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  🏳️‍🌈 Non-binary (he/they) • 🧡 Svelte evangelist • 👨‍💻 Live coder • 🔓 FOSS supporter • ✨ Emoji enthusiast
+  🏳️‍🌈 Non-binary (he/they) • 🧡 Svelte evangelist • 👨‍💻 Live coder • 🔓 FOSS supporter • 🤓 Unicode nerd
 </p>
 
 <p align="center">
