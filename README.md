@@ -32,7 +32,7 @@ Hello and welcome to my personal code compendium. 👋📚 You can call me Doce,
 
 - [📹 Twitch](https://twitch.tv/doceazedo911)
 - [🐤 Twitter](https://twitter.com/doceazedo911)
-- [🐘 Mastodon](https://svelte.gay/@doceazedo)
+- [🐘 Mastodon](https://bolha.us/@doceazedo)
 - [📸 Instagram](https://instagram.com/doceazedo911)
 - [🎮 Discord](https://discordapp.com/users/241978119899185165)
 - [🎵 Last.fm](https://last.fm/user/doceazedo911)
