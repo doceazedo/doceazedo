@@ -27,7 +27,7 @@ Hello and welcome to my personal code compendium. 👋📚 You can call me Doce,
 ## ☕ Keep in touch:
 
 <a href="https://discord.gg/vEGRe2kq8B">
-  <img src="https://invidget.switchblade.xyz/vEGRe2kq8B" align="right">
+  <img src="https://discord-invite.doceazedo.com/api/vEGRe2kq8B.png" align="right">
 </a>
 
 - [📹 Twitch](https://twitch.tv/doceazedo911)
