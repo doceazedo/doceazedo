@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Svelte-ff3e00?logo=svelte&logoColor=fff">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff">
-  <img src="https://img.shields.io/badge/-Sass-cc6699?logo=sass&logoColor=fff">
+  <img src="https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=fff">
   <img src="https://img.shields.io/badge/-Capacitor-119EFF?logo=capacitor&logoColor=fff">
   &nbsp;
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=333">
