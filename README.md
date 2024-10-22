@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./doceazedo-logo.svg" height="80">
+  <img src="./doceazedo-logo.png" height="56">
 </p>
 
 <p align="center">
@@ -22,7 +22,6 @@
 Hello and welcome to my personal code compendium. 👋📚 You can call me Doce, I'm a developer that truly enjoys to translate concept ideas to meaningful experiences.
 
 🔴 I do live coding streams on [Twitch](https://twitch.tv/doceazedo911) from Tuesday to Thursday @ 7:30pm (BRT).
-
 
 ## ☕ Keep in touch:
 
