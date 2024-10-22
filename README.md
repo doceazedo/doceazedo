@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./doceazedo-logo.png" height="56">
+  <img src="./doceazedo-logo.png" height="64">
 </p>
 
 <p align="center">
